@@ -1,4 +1,5 @@
 # docx-word
+<br><br>
 
 ## 실행
 - python main.py
@@ -14,11 +15,18 @@
 - 기존 문제집처럼 2단 형태로 생성은 되나 행(가로)으로 생성되어서 문제 순서 또한 가로 순으로 나열됩니다.
 <br><br>
 
+- 실행 시,
+<br>
+
 ![실행물1](https://user-images.githubusercontent.com/52739724/83047736-bff6bd80-a083-11ea-9077-c184e5917198.PNG)
 <br><br><br>
+
+- 실행 후, 저장된 파일
+<br>
 
 ![실행물2](https://user-images.githubusercontent.com/52739724/83047760-c8e78f00-a083-11ea-8f7e-ef7e35e9c865.PNG)
 <br><br><br>
 
+- 생성된 워드(docx) 파일(문제는 지워뒀습니다.)
 ![워드결과물](https://user-images.githubusercontent.com/52739724/83047771-cd13ac80-a083-11ea-924a-2f43ad2a3d39.PNG)
 <br><br><br>
